@@ -12,6 +12,8 @@ static/*
 *.sql
 vk_config.v2.json
 vshaurme/settings/local.py
+*.db
+*.sqlite3
 
 # C extensions
 *.so
